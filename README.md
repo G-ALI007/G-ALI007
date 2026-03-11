@@ -1,16 +1,28 @@
-## Hi there 👋
+# 📡 Telecommunications Engineer | Developer 🚀
 
-<!--
-**G-ALI007/G-ALI007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Connecting the World through Code & Signals
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🎓 **Background:** Telecommunications Engineer with a passion for Software Engineering.
+- 🎯 **Focus:** Low-latency systems, Network Automation, and [أضف تخصصك البرمجي هنا، مثلاً Python].
+- ⚡ **Motto:** Life is like a signal; keep the SNR high and the noise low.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Networking:** Cisco, TCP/IP, 5G, SDN, 4G.
+- **Programming:** Python, Bash, HTML, Css, Java script, C++, C, C#, flutter, flet.
+- **Tools:** Git, Docker, Linux, matlab, cisco, wireshark.
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-ALI007&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with me:
+[LinkedIn](www.linkedin.com/in/ghader-ali-49588b3b6) | [Email](aghader563@gmail.com
+)
