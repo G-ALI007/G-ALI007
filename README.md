@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 **Background:** Telecommunications Engineer with a passion for Software Engineering.
-- 🎯 **Focus:** Low-latency systems, Network Automation, and [أضف تخصصك البرمجي هنا، مثلاً Python].
+- 🎯 **Focus:** Low-latency systems, Network Automation, DSP.
 - ⚡ **Motto:** Life is like a signal; keep the SNR high and the noise low.
 
 ---
@@ -14,7 +14,7 @@
 ### 🛠️ Tech Stack & Tools
 - **Networking:** Cisco, TCP/IP, 5G, SDN, 4G.
 - **Programming:** Python, HTML, Css, Java script, C++, C, C#, flutter, flet.
-- **Tools:** Git, Linux, matlab, cisco, wireshark, AWR, HFSS, VScode.
+- **Tools:** Git, Linux, matlab, cisco, wireshark, AWR, HFSS, VScode, VHDL.
 
 ---
 
