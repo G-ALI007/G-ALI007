@@ -13,8 +13,8 @@
 
 ### 🛠️ Tech Stack & Tools
 - **Networking:** Cisco, TCP/IP, 5G, SDN, 4G.
-- **Programming:** Python, HTML, Css, Java script, C++, C, C#, flutter, flet.
-- **Tools:** Git, Linux, matlab, cisco, wireshark, AWR, HFSS, VScode, VHDL.
+- **Programming:** Python, HTML, Css, Java script, C++, C, C#, flutter, flet, VHDL.
+- **Tools:** Git, Linux, matlab, cisco, wireshark, AWR, HFSS, VScode, Beaglebone, atmega16.
 
 ---
 
